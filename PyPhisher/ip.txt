@@ -1,0 +1,169 @@
+IP                   : 122.173.28.54
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+Version              : x86_64;
+Browser              : Unknown Browser
+Location             : New Delhi, India, Asia
+GeoLocation(lat, lon): 28.6139391, 77.2090212
+Currency             : Indian Rupee
+
+IP                   : 122.173.28.54
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.22.20.79 A
+Version              : 
+Browser              : Unknown Browser
+Location             : New Delhi, India, Asia
+GeoLocation(lat, lon): 28.6139391, 77.2090212
+Currency             : Indian Rupee
+
+IP                   : 180.188.247.78
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla/5.0 (Linux; Android 11; AC2001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+Version              : 11;
+Browser              : Unknown Browser
+Location             : Garhshankar, India, Asia
+GeoLocation(lat, lon): 31.217507, 76.1406925
+Currency             : Indian Rupee
+
+IP                   : 180.188.247.78
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla/5.0 (Linux; Android 11; AC2001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+Version              : 11;
+Browser              : Unknown Browser
+Location             : Garhshankar, India, Asia
+GeoLocation(lat, lon): 31.217507, 76.1406925
+Currency             : Indian Rupee
+
+IP                   : 180.188.247.78
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla/5.0 (Linux; Android 11; AC2001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+Version              : 11;
+Browser              : Unknown Browser
+Location             : Garhshankar, India, Asia
+GeoLocation(lat, lon): 31.217507, 76.1406925
+Currency             : Indian Rupee
+
+IP                   : 35.203.245.218
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15
+Version              : Mac
+Browser              : Unknown Browser
+Location             : Mountain View, United States, North America
+GeoLocation(lat, lon): 37.3860517, -122.0838511
+Currency             : US Dollar
+
+IP                   : 35.203.245.218
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15
+Version              : Mac
+Browser              : Unknown Browser
+Location             : Mountain View, United States, North America
+GeoLocation(lat, lon): 37.3860517, -122.0838511
+Currency             : US Dollar
+
+IP                   : 185.220.101.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+Version              : 10.0;
+Browser              : Unknown Browser
+Location             : Bonn, Germany, Europe
+GeoLocation(lat, lon): 50.73743, 7.0982068
+Currency             : Euro
+
+IP                   : 54.82.125.101
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43
+Version              : 10.0;
+Browser              : Unknown Browser
+Location             : Ashburn, United States, North America
+GeoLocation(lat, lon): 39.0437567, -77.4874416
+Currency             : US Dollar
+IP                   : 54.82.125.101
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43
+Version              : 10.0;
+Browser              : Unknown Browser
+Location             : Ashburn, United States, North America
+GeoLocation(lat, lon): 39.0437567, -77.4874416
+Currency             : US Dollar
+
+IP                   : 107.178.232.225
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36
+Version              : Mac
+Browser              : Unknown Browser
+Location             : Mountain View, United States, North America
+GeoLocation(lat, lon): 37.3860517, -122.0838511
+Currency             : US Dollar
+
+IP                   : 107.178.232.225
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36
+Version              : Mac
+Browser              : Unknown Browser
+Location             : Mountain View, United States, North America
+GeoLocation(lat, lon): 37.3860517, -122.0838511
+Currency             : US Dollar
+
+IP                   : 3.232.207.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43
+Version              : 10.0;
+Browser              : Unknown Browser
+Location             : Ashburn, United States, North America
+GeoLocation(lat, lon): 39.0437567, -77.4874416
+Currency             : US Dollar
+
+IP                   : 42.105.8.210
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla/5.0 (Linux; Android 9; Lava Z61P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36
+Version              : 9;
+Browser              : Unknown Browser
+Location             : Kolkata, India, Asia
+GeoLocation(lat, lon): 22.572646, 88.363895
+Currency             : Indian Rupee
+
+IP                   : 132.154.138.15
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla/5.0 (Linux; Android 11; Redmi Note 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
+Version              : 11;
+Browser              : Unknown Browser
+Location             : Navi Mumbai, India, Asia
+GeoLocation(lat, lon): 18.9832829, 73.108491
+Currency             : Indian Rupee
+
+IP                   : 112.196.36.139
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+Version              : x86_64;
+Browser              : Unknown Browser
+Location             : Sahibzada Ajit Singh Nagar, India, Asia
+GeoLocation(lat, lon): 30.7046486, 76.7178726
+Currency             : Indian Rupee
+
+IP                   : 112.196.36.139
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+Version              : x86_64;
+Browser              : Unknown Browser
+Location             : Sahibzada Ajit Singh Nagar, India, Asia
+GeoLocation(lat, lon): 30.7046486, 76.7178726
+Currency             : Indian Rupee
+
